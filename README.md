@@ -1,2 +1,2 @@
-# SoftUni-JS
-Completed Tasks 
+# SoftUni-JS 
+// Completed Tasks from courses. 
