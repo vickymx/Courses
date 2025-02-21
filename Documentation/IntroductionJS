@@ -1,0 +1,16 @@
+In HTML, JavaScript code is inserted between <script> and </script> tags. For example: 
+
+<script>
+document.getElementById("demo").innerHTML = "My First JavaScript";
+</script>
+
+JavaScript can "display" data in different ways:
+
+Writing into an HTML element, using innerHTML or innerText.
+Writing into the HTML output using document.write().
+Writing into an alert box, using window.alert().
+Writing into the browser console, using console.log().
+A JavaScript function is a block of JavaScript code, that can be executed when "called" for.
+
+When we want to change an HTML element we use - innerHTML. When we want to change plain text we use - InnerText.🤓
+
