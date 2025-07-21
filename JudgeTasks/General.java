@@ -8,4 +8,8 @@ long	Stores whole numbers from -9,223,372,036,854,775,808 to 9,223,372,036,854,7
 float	Stores fractional numbers. Sufficient for storing 6 to 7 decimal digits
 double	Stores fractional numbers. Sufficient for storing 15 to 16 decimal digits
 boolean	Stores true or false values
-char	Stores a single character/letter or ASCII values */
+char	Stores a single character/letter or ASCII values
+Use float or double?
+The precision of a floating point value indicates how many digits the value can have after the decimal point.
+The precision of float is only six or seven decimal digits, while double variables have a precision of about 16 digits. 
+Therefore it is safer to use double for most calculations. */
